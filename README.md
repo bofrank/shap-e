@@ -1,3 +1,9 @@
+#how to run
+
+understand juypiter notebooks
+https://youtu.be/d3npfCoOO5o
+
+
 # Shap-E
 
 This is the official code and model release for [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463).
